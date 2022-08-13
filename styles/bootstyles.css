@@ -1,0 +1,17 @@
+a{
+    color: green;
+    text-decoration: none;
+
+}
+
+.underline{
+    text-decoration-line: underline;
+}
+
+.centerText{
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
